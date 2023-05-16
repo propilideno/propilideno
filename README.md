@@ -1,8 +1,18 @@
 ### Hi there 👋, my name is **Lucas de Almeida**, you can call me **Propi** :scientist:
+```
+██████╗ ██████╗  ██████╗ ██████╗ ██╗           ██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██║           ██╔══██╗██╔════╝██║   ██║
+██████╔╝██████╔╝██║   ██║██████╔╝██║           ██║  ██║█████╗  ██║   ██║
+██╔═══╝ ██╔══██╗██║   ██║██╔═══╝ ██║           ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██║     ██║  ██║╚██████╔╝██║     ██║    ██╗    ██████╔╝███████╗ ╚████╔╝ 
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝    ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝                                                                       
+```
+
 - I'm a CS Student, Researcher and a Bass Singer. I'm a creative and curious person that can solve many problems in many different areas.
 - I also did many DIY things with IoT like Intruder Detector Security System, My Own Keyboard, My OpenWRT Router, Bruteforce Garage Unlocker, etc.
 - I love C++, Graph Theory and Neovim.
 - ![propi](https://user-images.githubusercontent.com/105776775/236694629-26b8b07f-0181-4f6c-94b6-84d746762348.gif)
+
 
 ### Programming Languages :computer:
 This is not a tier list, just my experience with each one
