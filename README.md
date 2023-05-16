@@ -8,8 +8,8 @@
 This is not a tier list, just my experience with each one
 - **S Tier:** C/C++11, Python, Bash
 - **A Tier:** Rust, Haskell, HTML
-- **B Tier:** Java, MySQL, CSS
-- **Learning**: Lua, JavaScript and C++14
+- **B Tier:** Lua, Java, MySQL, CSS
+- **Learning**: JavaScript and C++17
 ### Skills :ninja:
 - **Software Engineering:** I specialize in algorithms and data structures. I'm always looking for ways to optimize code and create efficient software solutions.
 - **Data Science:** I have experience with web scraping and data analysis, and I enjoy using data to drive insights and decision-making.
