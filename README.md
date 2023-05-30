@@ -43,4 +43,4 @@ This is not a tier list, just my experience with each one
 - **Learning:** Hebrew
 ### Contact 📫
 - Discord: Propi#3308
-- Email: contato@propi.dev
+- Email: hello@propi.dev
