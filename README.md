@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is **Lucas de Almeida**, you can call me **Propi** :scientist:
-- I'm a CS Student, Researcher and a Bass Singer. I'm a creative and curious person that can solve many problems in many different areas.
-- I also did many DIY things with IoT like Intruder Detector Security System, My Own Keyboard, My OpenWRT Router, Bruteforce Garage Unlocker, etc.
-- I love C++, Graph Theory and Neovim.
+- Freelancer Programmer, Productivity Addict, Bass Singer, Researcher and CS Student.
+- C++, Bash, Graph Theory, Networking, Radio Hacking, Cybersecurity, Data Science, Neovim and much more.
+- I'm a creative and curious person that can solve many problems in many different areas.
+- Iot Projects: Intruder Detector Security System, Custom Keyboard, OpenWRT Router, Bruteforce Garage Unlocker and much more.
 
 ![propi](https://user-images.githubusercontent.com/105776775/236694629-26b8b07f-0181-4f6c-94b6-84d746762348.gif)
-![ezgif com-video-to-gif (2)](https://github.com/propilideno/propilideno/assets/105776775/f87bdb56-6eb7-4c55-beba-cbdcef9beef7)
+![propi-banner](https://github.com/propilideno/propilideno/assets/105776775/f87bdb56-6eb7-4c55-beba-cbdcef9beef7)
 
 ### Programming Languages :computer:
-This is not a tier list, just my experience with each one
 - **S Tier:** C/C++11, Python, Bash
 - **A Tier:** Lua, Rust, Haskell, HTML
 - **B Tier:** Java, MySQL, CSS
@@ -22,8 +22,7 @@ This is not a tier list, just my experience with each one
 ### Fun Facts ⚡
 - Productivity addict
 - Bass Singer with vocal range in A1-A4 (chest notes)
-- 80 wpm with colemak dh touch typing (Learning since Oct/22)
-- 100 wpm with qwerty without touch typing. Oh really :joy:? So why are you trying touch typing? My answer: My finger was hurting with bad typing habits.
+- I can reach 90 wpm using Colemak DH (Learning since Oct/22)
 #### Now about my keyboard 😎
 - My keyboard layout is **Colemak-DH**.
 - QMK with **14 layers of knowledge** to provide full time keyboard environment.
