@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is **Lucas de Almeida**, you can call me **Propi** :scientist:
 - Freelancer Programmer, Productivity Addict, Bass Singer, Researcher and CS Student.
-- C++, Bash, Graph Theory, Networking, Radio Hacking, Cybersecurity, Data Science, Neovim and much more.
+- C++, Bash, Graph Theory, Network, Radio Hacking, Cybersecurity, Data Science, Neovim and much more.
 - I'm a creative and curious person that can solve many problems in many different areas.
-- Iot Projects: Intruder Detector Security System, Custom Keyboard, OpenWRT Router, Bruteforce Garage Unlocker and much more.
+- Projects: Intruder Detector System, Custom Keyboard, OpenWRT Router, Bruteforce Garage Unlocker and much more.
 
 ![propi](https://user-images.githubusercontent.com/105776775/236694629-26b8b07f-0181-4f6c-94b6-84d746762348.gif)
 ![propi-banner](https://github.com/propilideno/propilideno/assets/105776775/f87bdb56-6eb7-4c55-beba-cbdcef9beef7)
