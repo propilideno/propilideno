@@ -1,24 +1,16 @@
 ### Hi there 👋, my name is **Lucas de Almeida**, you can call me **Propi** :scientist:
-
-```
-██████  ██████   ██████  ██████  ██ ██      ██ ██████  ███████ ███    ██  ██████  
-██   ██ ██   ██ ██    ██ ██   ██ ██ ██      ██ ██   ██ ██      ████   ██ ██    ██ 
-██████  ██████  ██    ██ ██████  ██ ██      ██ ██   ██ █████   ██ ██  ██ ██    ██ 
-██      ██   ██ ██    ██ ██      ██ ██      ██ ██   ██ ██      ██  ██ ██ ██    ██ 
-██      ██   ██  ██████  ██      ██ ███████ ██ ██████  ███████ ██   ████  ██████
-```
-
 - I'm a CS Student, Researcher and a Bass Singer. I'm a creative and curious person that can solve many problems in many different areas.
 - I also did many DIY things with IoT like Intruder Detector Security System, My Own Keyboard, My OpenWRT Router, Bruteforce Garage Unlocker, etc.
 - I love C++, Graph Theory and Neovim.
-- ![propi](https://user-images.githubusercontent.com/105776775/236694629-26b8b07f-0181-4f6c-94b6-84d746762348.gif)
 
+![propi](https://user-images.githubusercontent.com/105776775/236694629-26b8b07f-0181-4f6c-94b6-84d746762348.gif)
+![ezgif com-video-to-gif (2)](https://github.com/propilideno/propilideno/assets/105776775/f87bdb56-6eb7-4c55-beba-cbdcef9beef7)
 
 ### Programming Languages :computer:
 This is not a tier list, just my experience with each one
 - **S Tier:** C/C++11, Python, Bash
-- **A Tier:** Rust, Haskell, HTML
-- **B Tier:** Lua, Java, MySQL, CSS
+- **A Tier:** Lua, Rust, Haskell, HTML
+- **B Tier:** Java, MySQL, CSS
 - **Learning**: JavaScript and C++17
 ### Skills :ninja:
 - **Software Engineering:** I specialize in algorithms and data structures. I'm always looking for ways to optimize code and create efficient software solutions.
