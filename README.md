@@ -12,6 +12,8 @@
 - **A Tier:** Lua, Rust, Haskell, HTML
 - **B Tier:** Java, MySQL, CSS
 - **Learning**: JavaScript and C++17
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=propilideno&theme=merko&mode=weekly&card_width=350)](https://git.io/streak-stats)
 ### Skills :ninja:
 - **Software Engineering:** I specialize in algorithms and data structures. I'm always looking for ways to optimize code and create efficient software solutions.
 - **Data Science:** I have experience with web scraping and data analysis, and I enjoy using data to drive insights and decision-making.
@@ -35,3 +37,5 @@
 ### Contact 📫
 - Discord: Propi#3308
 - Email: hello@propi.dev
+
+
