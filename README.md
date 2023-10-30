@@ -5,7 +5,9 @@
 - Projects: Intruder Detector System, Custom Keyboard, OpenWRT Router, Bruteforce Garage Unlocker and much more.
 
 ![propi](https://user-images.githubusercontent.com/105776775/236694629-26b8b07f-0181-4f6c-94b6-84d746762348.gif)
-![propi-banner](https://github.com/propilideno/propilideno/assets/105776775/f87bdb56-6eb7-4c55-beba-cbdcef9beef7)
+
+![AWS Foundational](https://images.credly.com/size/300x300/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+![AWS Associate](https://images.credly.com/size/300x300/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
 ### Programming Languages :computer:
 - **S Tier:** C/C++11, Python, Bash
@@ -34,9 +36,6 @@
 - **Advanced:** English
 - **Intermediate:** Spanish
 - **Learning:** Hebrew
-
-### Certifications
-![AWS Solutions Architect](https://propi-public-bucket.s3.amazonaws.com/icons/clf-c02.png)
 
 ### Contact 📫
 - Discord: Propi#3308
