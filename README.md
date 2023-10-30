@@ -34,8 +34,10 @@
 - **Advanced:** English
 - **Intermediate:** Spanish
 - **Learning:** Hebrew
+
+### Certifications
+![AWS Solutions Architect](https://propi-public-bucket.s3.amazonaws.com/icons/clf-c02.png)
+
 ### Contact 📫
 - Discord: Propi#3308
 - Email: hello@propi.dev
-
-
