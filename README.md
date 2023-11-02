@@ -11,17 +11,14 @@
 | :------: | :------: | :-----: |
 | ![Ícone 1](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)<br>![Ícone 2](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png) | <img src="https://user-images.githubusercontent.com/105776775/236694629-26b8b07f-0181-4f6c-94b6-84d746762348.gif" width="350"> | <img src="https://streak-stats.demolab.com?user=propilideno&theme=merko&mode=weekly&card_width=350" width="350">
 
-
-
-
 ### Tier List :computer:
 | Tier | Programming Language | Framework / Library / Technologies | Languages 🌎 |
 | ---- | -------------------- | --------- | ------ |
-| S+ (Daily-Use, Love it) | C++11, C, Python, Bash | Ansible, Terraform, Docker, Boto3 |  Portuguese, English |
-| S- (Learning, but i'll use a lot) | ------ | Kubernetes, Grafana, Prometheus, Telegraf, Jenkins | -------- |
-| A (Really Good, I use a lot) | C++17, Lua, SQL | QMK, Flask, Pandas, NetworkX | |
-| B (Really Good, I don't use so much) | Haskell, Zig, Rust | WireShark, Nmap, GNU Radio, OpenCV, RTL-SDR, Django | Spanish |
-| C (Learning, but i won't use it much ) | HTML/CSS/JavaScript, Nim | Angular | Hebrew |
+| **S+** (Daily-Use, Love it) | C++11, C, Python, Bash | Ansible, Terraform, Docker, Boto3 |  Portuguese, English |
+| **S-** (Learning, but i'll use a lot) | -------- | Kubernetes, Grafana, Prometheus, Telegraf, Jenkins | -------- |
+| **A** (Really Good, I use a lot) | C++17, Lua, SQL | QMK, Flask, Pandas, NetworkX | -------- |
+| **B** (Really Good, I don't use so much) | Haskell, Zig, Rust | WireShark, Nmap, GNU Radio, OpenCV, RTL-SDR, Django | Spanish |
+| **C** (Learning, but i won't use it much ) | HTML/CSS/JavaScript, Nim | Angular | Hebrew |
 
 ### Contact 📫
 - Discord: propilideno
