@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is **Lucas de Almeida**, you can call me **Propi** :scientist:
-*I'm a creative and curious person that can solve many problems in many different areas.*
+*Creative and curious person that can solve many problems in many different areas.*
 
-Freelancer Programmer, Productivity Addict, Cloud Agnostic, Bass Singer, Researcher and CS Student.
+**| Freelancer Programmer | Productivity Addict | Cloud Agnostic | Bass Singer | Researcher | CS Student |**
 
 - **Daily-Use:** Neovim + Allacrity + Zellij, Split-Keyboard, Colemak-DH, Obsidian, Kubuntu
 - **Knowledge:** Graph Theory, Network, Radio Hacking, Cybersecurity, Cloud engineering, DevOps, Data Science and much more.
@@ -15,21 +15,13 @@ Freelancer Programmer, Productivity Addict, Cloud Agnostic, Bass Singer, Researc
 
 
 ### Tier List :computer:
-| Tier | Programming Language | Framework / Library / Technologies |
-| ---- | -------------------- | --------- |
-| S+ (Daily-Use, Love it) | C++11, C, Python, Bash | Ansible, Terraform, Docker, Boto3 |
-| S- (Learning, but i'll use a lot) | ------ | Kubernetes, Grafana, Prometheus, Telegraf, Jenkins |
-| A (Really Good, I use a lot) | C++17, Lua, SQL | QMK, Flask, Pandas, NetworkX |
-| B (Really Good, I don't use so much) | Haskell, Zig, Rust | WireShark, Nmap, GNU Radio, OpenCV, RTL-SDR, Django |
-| C (Learning, but i won't use it much ) | HTML/CSS/JavaScript, Nim | Angular |
-
-### My Languages :earth_americas:
-| Proficiency | Language |
-| ----------- | -------- |
-| Native/Fluent | Portuguese |
-| Advanced | English |
-| Intermediate | Spanish |
-| Basic/Learning | Hebrew |
+| Tier | Programming Language | Framework / Library / Technologies | Languages 🌎 |
+| ---- | -------------------- | --------- | ------ |
+| S+ (Daily-Use, Love it) | C++11, C, Python, Bash | Ansible, Terraform, Docker, Boto3 |  Portuguese, English |
+| S- (Learning, but i'll use a lot) | ------ | Kubernetes, Grafana, Prometheus, Telegraf, Jenkins | -------- |
+| A (Really Good, I use a lot) | C++17, Lua, SQL | QMK, Flask, Pandas, NetworkX | |
+| B (Really Good, I don't use so much) | Haskell, Zig, Rust | WireShark, Nmap, GNU Radio, OpenCV, RTL-SDR, Django | Spanish |
+| C (Learning, but i won't use it much ) | HTML/CSS/JavaScript, Nim | Angular | Hebrew |
 
 ### Contact 📫
 - Discord: propilideno
