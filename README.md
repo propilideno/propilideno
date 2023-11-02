@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is **Lucas de Almeida**, you can call me **Propi** :scientist:
 *Creative and curious person that can solve many problems in many different areas.*
 
+![My Skills](https://skillicons.dev/icons?i=ansible,docker,kubernetes,grafana,prometheus,flask,django,cloudflare,aws,ansible,c,cpp,py,bash,powershell,nginx,zig,rust,lua,vim,neovim,haskell,linux,raspberrypi,arduino,git,github,latex,md,regex)
+
 **| Freelancer Programmer | Productivity Addict | Cloud Agnostic | Bass Singer | Researcher | CS Student |**
 
 - **Daily-Use:** Neovim + Allacrity + Zellij, Split-Keyboard, Colemak-DH, Obsidian, Kubuntu
@@ -15,9 +17,9 @@
 | Tier | Programming Language | Framework / Library / Technologies | Languages 🌎 |
 | ---- | -------------------- | --------- | ------ |
 | **S+** (Daily-Use, Love it) | C++11, C, Python, Bash | Ansible, Terraform, Docker, Boto3 |  Portuguese, English |
-| **S-** (Learning, but i'll use a lot) | -------- | Kubernetes, Grafana, Prometheus, Telegraf, Jenkins | -------- |
+| **S-** (Learning, but i'll use a lot) | PowerShell | Kubernetes, Grafana, Prometheus, Telegraf, Jenkins | -------- |
 | **A** (Really Good, I use a lot) | C++17, Lua, SQL | QMK, Flask, Pandas, NetworkX | -------- |
-| **B** (Really Good, I don't use so much) | Haskell, Zig, Rust | WireShark, Nmap, GNU Radio, OpenCV, RTL-SDR, Django | Spanish |
+| **B** (Really Good, I don't use so much) | Haskell, Zig, Rust, Java | WireShark, Nmap, GNU Radio, OpenCV, RTL-SDR, Django | Spanish |
 | **C** (Learning, but i won't use it much ) | HTML/CSS/JavaScript, Nim | Angular | Hebrew |
 
 ### Contact 📫
