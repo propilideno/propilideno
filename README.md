@@ -3,7 +3,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=ansible,docker,kubernetes,grafana,prometheus,flask,django,cloudflare,aws,ansible,c,cpp,py,bash,powershell,nginx,zig,rust,lua,vim,neovim,haskell,linux,raspberrypi,arduino,git,github,latex,md,regex)
 
-**| Freelancer Programmer | Productivity Addict | Cloud Agnostic | Bass Singer | Researcher | CS Student |**
+#### | Freelancer Programmer | Productivity Addict | Cloud Agnostic | Bass Singer | Researcher | CS Student |
 
 - **Daily-Use:** Neovim + Allacrity + Zellij, Split-Keyboard, Colemak-DH, Obsidian, Kubuntu
 - **Knowledge:** Graph Theory, Network, Radio Hacking, Cybersecurity, Cloud engineering, DevOps, Data Science and much more.
