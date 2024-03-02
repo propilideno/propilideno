@@ -11,7 +11,7 @@
 
 | Certifications | Keyboard | Contributions |
 | :------: | :------: | :-----: | 
-| <img src="https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png" width="75"> <br> <a href="https://www.credly.com/badges/230a0796-45f4-44d5-9af3-e572a670d5a3"> <img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="75"> <a href="https://www.credly.com/badges/e290b2cf-8679-482a-ae11-c631282ac31b"> <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="75"> | <a href="http://propi.dev"> <img src="https://user-images.githubusercontent.com/105776775/236694629-26b8b07f-0181-4f6c-94b6-84d746762348.gif" width="350"> | <a href="http://propi.dev"> <img src="https://streak-stats.demolab.com?user=propilideno&theme=merko&mode=weekly&card_width=350" width="350">
+| <img src="https://www.datocms-assets.com/2885/1645553469-hcta0-badge.png" width="75"> <a href="https://www.credly.com/badges/230a0796-45f4-44d5-9af3-e572a670d5a3"> <img src="https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="75"> <a href="https://www.credly.com/badges/e290b2cf-8679-482a-ae11-c631282ac31b"> <img src="https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="75"> | <a href="http://propi.dev"> <img src="https://user-images.githubusercontent.com/105776775/236694629-26b8b07f-0181-4f6c-94b6-84d746762348.gif" width="350"> | <a href="http://propi.dev"> <img src="https://streak-stats.demolab.com?user=propilideno&theme=merko&mode=weekly&card_width=350" width="350">
 
 ### Tier List :computer:
 | Tier | Programming Language | Framework / Library / Technologies | Languages 🌎 |
