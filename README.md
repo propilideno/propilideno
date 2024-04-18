@@ -16,11 +16,11 @@
 ### Tier List :computer:
 | Tier | Programming Language | Framework / Library / Technologies | Languages 🌎 |
 | ---- | -------------------- | --------- | ------ |
-| **S+** (Daily-Use, Love it) | C++11, C, Python, Bash | Ansible, Terraform, Docker, Boto3 |  Portuguese, English |
-| **S-** (Learning, but i'll use a lot) | PowerShell | Kubernetes, Grafana, Prometheus, Telegraf, Jenkins | -------- |
-| **A** (Really Good, I use a lot) | C++17, Lua, SQL | QMK, Flask, Pandas, NetworkX | -------- |
-| **B** (Really Good, I don't use so much) | Haskell, Zig, Rust, Java | WireShark, Nmap, GNU Radio, OpenCV, RTL-SDR, Django | Spanish |
-| **C** (Learning, but i won't use it much ) | HTML/CSS/JavaScript, Nim | Angular | Hebrew |
+| **S+** (Daily-Use, Love it) | C++11, C, Python, Bash | Ansible, Terraform, Docker, Boto3, DynamoDB |  Portuguese, English |
+| **S-** (Learning, but i'll use a lot) | Go | Kubernetes, Grafana, Prometheus, Telegraf, Jenkins, PostgreeSQL | -------- |
+| **A** (Really Good, I use a lot) | C++17, Lua, SQL | QMK, Flask, Pandas, NetworkX, HTML | -------- |
+| **B** (Really Good, I don't use so much) | Haskell, Zig, Rust, Java, JavaScript, C# | WireShark, Nmap, GNU Radio, OpenCV, RTL-SDR, Django, React, Bun, Vite | Spanish |
+| **C** (Learning, but i won't use it much ) | HTML/CSS, Nim | Angular | Hebrew |
 
 ### Contact 📫
 - Discord: propilideno
