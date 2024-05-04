@@ -5,7 +5,7 @@
 
 #### | Freelancer Programmer | Productivity Addict | Cloud Agnostic | Bass Singer | Researcher | CS Student |
 
-- **Daily-Use:** Neovim + Allacrity + Zellij, Split-Keyboard, Colemak-DH, Obsidian, Kubuntu
+- **Daily-Use:** Neovim + Kitty/Allacrity + Tmux/Zellij, Split-Keyboard, Colemak-DH, Obsidian, Arch Linux
 - **Knowledge:** Graph Theory, Network, Radio Hacking, Cybersecurity, Cloud engineering, DevOps, Data Science and much more.
 - **DIY Projects:** Intruder Detector System, Custom Keyboard, OpenWRT Router, Bruteforce Garage Unlocker and much more.
 
