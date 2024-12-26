@@ -1,5 +1,4 @@
-### Hi there 👋, my name is **Lucas de Almeida**, you can call me **Propi** :scientist:
-*Creative and curious person that can solve many problems in many different areas.*
+### Senior problem solver
 
 ![My Skills](https://skillicons.dev/icons?i=ansible,docker,kubernetes,grafana,prometheus,flask,django,cloudflare,aws,ansible,c,cpp,py,bash,powershell,nginx,zig,rust,lua,vim,neovim,haskell,linux,raspberrypi,arduino,git,github,latex,md,regex)
 
